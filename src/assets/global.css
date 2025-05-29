@@ -1,0 +1,13 @@
+/* src/assets/global.css */
+.el-menu--popup {
+  min-width: 132px !important;
+  width: 132px !important;
+}
+
+.el-menu--popup .el-menu-item {
+  width: 132px !important;
+  box-sizing: border-box;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 16px;
+}
