@@ -8,7 +8,7 @@
       </h2>
 
       <div class="map-photo">
-        <img src="@/assets/floor_map.jpg" alt="平面图" />
+        <img src="@/assets/exhibition_layout.png" alt="平面图" />
       </div>
     </div>
   </div>
